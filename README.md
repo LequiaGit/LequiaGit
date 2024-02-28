@@ -1,4 +1,4 @@
-### Eco-innovative environmental solutions
+# Eco-innovative environmental solutions
 
 The Laboratory of Chemical and Environmental Engineering (LEQUIA) is a research group of the University of Girona (UdG) devoted to the development of eco-innovative environmental solutions. LEQUIA is a part of the UdG’s Institute of the Environment (IMA) and participates actively in Campus UdG Water. LEQUIA is a “consolidated research group” recognised by the Catalan Government (2021-SGR-1352) and a member of TECNIO, a network that brings together leading experts in applied research and technology transfer in Catalonia.
 
